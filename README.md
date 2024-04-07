@@ -11,5 +11,4 @@
 - Author: Vu Minh Nhat (NhatVu)
 - Email: nhatvu10092003@gmail.com
 - Facebook: https://www.facebook.com/vuminhnhat10092003
-- Idea: Schmavery
 

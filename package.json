@@ -1,0 +1,40 @@
+{
+    "name": "unofficial-fb-api",
+    "version": "1.0.0",
+    "description": "The unofficial API performs the task of sending messages and some other tasks for Facebook",
+    "main": "index.js",
+    "engines": {
+        "node": ">= 16.x"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nhatvu2003/unofficial-fb-api.git"
+    },
+    "keywords": [
+        "facebook",
+        "messenger",
+        "api",
+        "unofficial"
+    ],
+    "author": "Nhat Vu",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nhatvu2003/unofficial-fb-api/issues"
+    },
+    "homepage": "https://github.com/nhatvu2003/unofficial-fb-api#readme",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "mqtt": "^5.5.0",
+        "npmlog": "^7.0.1",
+        "request-promise-native": "^1.0.9",
+        "stream": "^0.0.2",
+        "tough-cookie": "^4.1.3"
+    },
+    "devDependencies": {
+        "mocha": "^10.4.0"
+    }
+}

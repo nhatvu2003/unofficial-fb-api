@@ -1,0 +1,65 @@
+# Source files
+src/
+module/
+types/
+*.ts
+!*.d.ts
+tsconfig.json
+
+# Development files
+.vscode/
+.github/
+eslint.config.js
+prettier.config.json
+
+# Test files
+test/
+tests/
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.production
+.env.test
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage
+coverage/
+*.lcov
+
+# AppState (sensitive)
+appstate.json
+
+# Git
+.git/
+.gitignore

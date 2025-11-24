@@ -1,0 +1,1 @@
+{"version":3,"file":"MarkAsRead.d.ts","sourceRoot":"","sources":["../../../module/message/MarkAsRead.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,EAAE,aAAa,EAAE,MAAM,qBAAqB,CAAC;AAGpD;;;GAGG;AACH,qBAAa,UAAW,SAAQ,aAAa;IACzC;;;;OAIG;IACG,IAAI,CACN,QAAQ,EAAE,MAAM,EAChB,QAAQ,CAAC,EAAE,CAAC,GAAG,EAAE,GAAG,KAAK,IAAI,GAC9B,OAAO,CAAC,IAAI,CAAC;YAKF,WAAW;CAoB5B"}

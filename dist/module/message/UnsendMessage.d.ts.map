@@ -1,0 +1,1 @@
+{"version":3,"file":"UnsendMessage.d.ts","sourceRoot":"","sources":["../../../module/message/UnsendMessage.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,EAAE,aAAa,EAAE,MAAM,qBAAqB,CAAC;AAGpD;;;GAGG;AACH,qBAAa,aAAc,SAAQ,aAAa;IAC5C;;;;OAIG;IACG,MAAM,CACR,SAAS,EAAE,MAAM,EACjB,QAAQ,CAAC,EAAE,CAAC,GAAG,EAAE,GAAG,KAAK,IAAI,GAC9B,OAAO,CAAC,IAAI,CAAC;YAKF,aAAa;CAkB9B"}

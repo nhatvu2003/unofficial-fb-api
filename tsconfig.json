@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "nodenext",
+    "target": "esnext",
+    "lib": ["esnext"],
+    "types": ["node"],
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "strict": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "skipLibCheck": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "moduleDetection": "force",
+    "noUncheckedSideEffectImports": true,
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "src",
+    "module",
+    "test",
+    "nvstudio.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
